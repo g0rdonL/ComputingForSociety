@@ -30,6 +30,11 @@ header{
 	background-color: #3b5998 
 }
 
+#reddit{
+    background-color: lightgrey
+}
+
+
 header .lead{
 	color: #b0b0b0;
 }
@@ -93,6 +98,19 @@ header .overlay {
   opacity: 0.5;
   z-index: 1;
 }
+
+
+/*header .overlay_red {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*    background-color: lightgrey;*/
+/*    opacity: 0.5;*/
+/*    z-index: 1;*/
+/*}*/
+
 
 @media (pointer: coarse) and (hover: none) {
   header {

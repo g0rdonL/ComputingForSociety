@@ -102,3 +102,16 @@ header .overlay {
 .youtube-card {
   text-align: justify;
 }
+
+
+/* images sizes inconsistant in front page
+  can add something like
+
+  .img-card-top {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+*/

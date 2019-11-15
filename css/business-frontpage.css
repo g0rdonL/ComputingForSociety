@@ -98,3 +98,7 @@ header .overlay {
   opacity: 0.5;
   z-index: 1;
 }
+
+.youtube-card {
+  text-align: justify;
+}
